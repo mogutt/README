@@ -26,7 +26,7 @@
      Android对应TTAndroidClient工程：android客户端工程
      Windows对应TTWinClient工程：windows客户端工程
 
-* 语言：c++、objectiv* e-c、java、php
+* 语言：c++、objective-c、java、php
 * 系统环境：Linux、Windows，Mac, iOS, Android
 
 # 相关文档
