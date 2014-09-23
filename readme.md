@@ -13,7 +13,7 @@
 ![teamtalk架构图](http://s6.mogucdn.com/b7/pic/140921/7n6ih_ieygmzjsmiywezjwmmytambqhayde_514x551.jpg)
 
 ####简介
-     这是一个麻雀虽小，五脏俱全的IM项目，涉及到多个平台、多种技术、多种语言，简单关系如上图。
+     麻雀虽小五脏俱全，本项目涉及到多个平台、多种技术、多种语言，简单关系如上图。
 
 #### 服务端：
      CppServer对应TTCppServer工程：包括IM消息服务器、http服务器、文件传输服务器、文件存储服务器、登陆服务器
