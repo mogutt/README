@@ -41,6 +41,6 @@
 [windows](https://github.com/mogutt/TTWinClient)、[iOS](https://github.com/mogutt/TTiOSClient)、[mac](https://github.com/mogutt/TTMacClient)、[Android](https://github.com/mogutt/TTAndroidClient)
 
 # 交流
-* qq交流群：
-* 邮件交流：im@mogujie.com
+* qq交流群：341273218
+* 邮件交流：tt@mogujie.com
 * 报告issue：[issues](https://github.com/mgjkuaidao/test/issues)
