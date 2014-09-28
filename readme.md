@@ -30,8 +30,8 @@
 * 系统环境：Linux、Windows，Mac, iOS, Android
 
 # 相关文档
-* [使用文档](http://tt.mogu.io/home/doc)
-* [开发文档](http://tt.mogu.io/home/doc)
+* [使用文档](https://github.com/mogutt/README/wiki/%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
+* [开发文档](https://github.com/mogutt/README/wiki/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3)
 
 # 下载
 ####服务端:
