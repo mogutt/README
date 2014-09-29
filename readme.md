@@ -33,7 +33,7 @@
 * [使用文档](https://github.com/mogutt/README/wiki/%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
 * [开发文档](https://github.com/mogutt/README/wiki/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3)
 
-# 下载
+# 代码下载
 ####服务端:
 [C++](https://github.com/mogutt/TTCppServer)、[PHP](https://github.com/mogutt/TTPhpServer)、[Java](https://github.com/mogutt/TTJavaServer)
 
