@@ -28,10 +28,10 @@ PHP server：TTPhpServer工程，teamtalk后台配置页面
 
 #### 客户端：
 
-mac：TTMacClient工程，mac客户端工程
-iOS：TTIOSClient工程，IOS客户端工程
-Android：TTAndroidClient工程，android客户端工程
-Windows：TTWinClient工程，windows客户端工程
+- mac：TTMacClient工程，mac客户端工程
+- iOS：TTIOSClient工程，IOS客户端工程
+- Android：TTAndroidClient工程，android客户端工程
+- Windows：TTWinClient工程，windows客户端工程
 
 * 语言：c++、objective-c、java、php
 * 系统环境：Linux、Windows，Mac, iOS, Android
