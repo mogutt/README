@@ -55,4 +55,3 @@ PHP server：TTPhpServer工程，teamtalk后台配置页面
 
 * qq交流群：341273218
 * 邮件交流：tt@mogujie.com
-* 报告issue：[issues](https://github.com/mgjkuaidao/test/issues)
