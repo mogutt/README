@@ -44,9 +44,8 @@ PHP server：TTPhpServer工程，teamtalk后台配置页面
 
 ####服务端:
 
-- [C++](https://github.com/mogutt/TTCppServer)
+- [Server](https://github.com/mogutt/TTServer)
 - [PHP](https://github.com/mogutt/TTPhpServer)
-- [Java](https://github.com/mogutt/TTJavaServer)
 
 ####客户端：
 
