@@ -37,18 +37,7 @@ PHP server：TTPhpServer工程，teamtalk后台配置页面
 * 系统环境：Linux、Windows，Mac, iOS, Android
 
 # 代码下载
-
-####服务端:
-
-- [Server](https://github.com/mogutt/TTServer)
-- [PHP](https://github.com/mogutt/TTPhpServer)
-
-####客户端：
-
-- [windows](https://github.com/mogutt/TTWinClient)
-- [iOS](https://github.com/mogutt/TTiOSClient)
-- [mac](https://github.com/mogutt/TTMacClient)
-- [Android](https://github.com/mogutt/TTAndroidClient)
+-[地址](https://github.com/mogujie/TeamTalk)
 
 # 交流
 
