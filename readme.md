@@ -41,5 +41,6 @@ PHP server：TTPhpServer工程，teamtalk后台配置页面
 
 # 交流
 
-* qq交流群：341273218
+* qq交流群1：341273218(已满)
+* qq交流群2:437335108
 * 邮件交流：tt@mogujie.com
